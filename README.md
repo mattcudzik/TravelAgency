@@ -1,5 +1,5 @@
 # TravelAgency
-Java web application made for my University classes. User can browse available hotels in the database and book holidays.
+Java web application made for my university classes. User can browse available hotels in the database and book holidays.
 
 Application:
 <ul>
