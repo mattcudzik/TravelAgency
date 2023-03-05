@@ -1,0 +1,13 @@
+body {
+    background-color: lightgreen;
+}
+
+table, td, th, tr {
+    border-collapse: collapse;
+    border: 1px black solid;
+    padding: 5px;
+}
+
+#errorMessage{
+    color: red;
+}

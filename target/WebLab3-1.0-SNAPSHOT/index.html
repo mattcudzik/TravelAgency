@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Start Page</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <link rel="stylesheet" href="css/main.css">
+        <script type="text/javascript" src="js/mainScript.js"></script>
+    </head>
+    <body>
+        <div id ="main">
+            <h1>Hello Traveller!</h1>
+
+            <input type="button" value="Browse hotels" id="searchHotelBttn" onclick="showTable('browsing')"/>
+            <br>
+            <input type="button" value="Book holidays" id="createBookingBttn" onclick="showTable('choosing')"/>
+            <br>
+            <input type="button" value="Get latest booking" onclick="getLatestReservation()"/>
+        </div>
+    </body>
+</html>
